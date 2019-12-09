@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InputsContainer.cs" />
     <Compile Include="LogEntry.cs" />
     <Compile Include="SolverInput.cs" />
     <Compile Include="Form1.cs">
