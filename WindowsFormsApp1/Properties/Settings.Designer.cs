@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Uebung_02_Solver_11202019.Properties {
+namespace CAx_Solver.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

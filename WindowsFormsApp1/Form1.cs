@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-namespace WindowsFormsApp1
+namespace CAx_Solver
 {
     // "Form1" inherits everything the super-class "Form" has
     public partial class Form1 : Form
@@ -51,7 +51,7 @@ namespace WindowsFormsApp1
         /// <param name="e"></param>
         private void StartSolverButton_Click(object sender, EventArgs e)
         {
-            // Create object "_input" of class "SolverInput"
+            // Create object "Input" of class "SolverInput"
             SolverInput Input = getInputs();
 
             // Caching: Creating a cache object of Class "SolverInput"

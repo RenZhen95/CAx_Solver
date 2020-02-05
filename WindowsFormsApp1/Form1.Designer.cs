@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace CAx_Solver
 {
     partial class Form1
     {
@@ -173,7 +173,7 @@
             // StartSolverButton
             // 
             this.StartSolverButton.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.StartSolverButton.Image = global::Uebung_02_Solver_11202019.Properties.Resources.StartIcon1;
+            this.StartSolverButton.Image = global::CAx_Solver.Properties.Resources.StartIcon1;
             this.StartSolverButton.Location = new System.Drawing.Point(210, 86);
             this.StartSolverButton.Name = "StartSolverButton";
             this.StartSolverButton.Size = new System.Drawing.Size(96, 61);

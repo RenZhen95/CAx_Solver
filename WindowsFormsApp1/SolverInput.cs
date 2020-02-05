@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace WindowsFormsApp1
+namespace CAx_Solver
 {
     // There are two options here:
     // public class SolverInput:

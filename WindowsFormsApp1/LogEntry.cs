@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApp1;
+using CAx_Solver;
 
-namespace WindowsFormsApp1
+namespace CAx_Solver
 {
     public class LogEntry
     {
